@@ -31,6 +31,7 @@ namespace TryCatch
             finally
             {
                 Console.WriteLine("Closing file...");
+
                 }
         }
     }
